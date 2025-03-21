@@ -13,7 +13,7 @@ venv/
 *.pkl
 *.zip
 *.bin
-*.png
+# *.png
 *.jpg
 output
 version.py

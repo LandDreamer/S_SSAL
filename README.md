@@ -10,9 +10,9 @@ This repository is the official Pytorch implementation of our work:
 
 - [Installation](#installation)
 
-- [Dataset Preparation](#dataset preparation)
+- [Dataset Preparation](#dataset-preparation)
 
-- [Training & Evaluation](#training & evaluation)
+- [Training and Evaluation](#training-and-evaluation)
 
 - [Abstract](#abstract)
 
@@ -58,7 +58,7 @@ data/
 
 
 
-## Training & Evaluation
+## Training and Evaluation
 
 ```shell
 # for KITTI 
