@@ -1,0 +1,22 @@
+**__pycache__**
+**build**
+**egg-info**
+**dist**
+data/
+*.pyc
+venv/
+*.idea/
+*.so
+# *.yaml
+# *.sh
+*.pth
+*.pkl
+*.zip
+*.bin
+*.png
+*.jpg
+output
+version.py
+box300_output
+old_cfg/
+pcdet/datasets/argo2
