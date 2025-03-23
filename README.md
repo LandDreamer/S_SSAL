@@ -12,7 +12,7 @@ This repository is the official Pytorch implementation of our work:
 
 - [Dataset Preparation](#dataset-preparation)
 
-- [Training and Evaluation](#training-and-evaluation)
+- [Training](#training)
 
 - [Abstract](#abstract)
 
@@ -58,7 +58,7 @@ data/
 
 
 
-## Training and Evaluation
+## Training
 
 ```shell
 # for KITTI 
@@ -71,7 +71,7 @@ bash scripts/waymo_sslal_train.sh # for CPSP pretrain (after normal pretrain)
 
 ```
 
-Please refer to [Train_Eval](docs/train_eval.md) for more details.
+Please refer to [Train](docs/train.md) for more details.
 
 
 
